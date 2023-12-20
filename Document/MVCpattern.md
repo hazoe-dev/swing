@@ -46,17 +46,8 @@ Model có 2 loại:
 
 ##### Presentation apply MVC in swing  
 
-```mermaid
-graph LR;
-MVC -->M -->U[Use case];
-MVC -->V -->P[Present/interact];
-        L -->D[Each component in view: has 2 logic types: 
-        - Communicate between components - Call use case];
-        
-    V -->F[Format data like DTO];
-MVC -->C -->L[link model and view];
-
-```  
+![MVC](images/mvc.png)
+ 
 Ngoài ra, còn có các data transfer object khác.
 
 ##### Logic with controller:
