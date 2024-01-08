@@ -121,7 +121,7 @@ Compare:
 |      | Cách 1                                                                 | Cách 2                                                           |  
 | ---- |------------------------------------------------------------------------|------------------------------------------------------------------| 
 |  Lợi | Controller của class cha độc lập khỏi swing framework                  | Đơn giản hóa View                                                |  
-| Hại  | Tight coupling, khó support nếu muốn sử dụng cách khác swing framework | Controller phụ thuộc vào swing và có thể càng ngày càng phìn ra  |  
+| Hại  | Tight coupling, khó support nếu muốn sử dụng cách khác swing framework | Controller phụ thuộc vào swing và có thể càng ngày càng phình ra |  
 
 
 Note:  
@@ -149,5 +149,6 @@ Vì như thế sẽ tự mình làm rối mình không cần thiết.
 - Thực tế, sống là linh hoạt, không phải lúc nào cũng là công thức  
 Quan trọng là phù hợp.
 - Cũng giống như chiêu thức là chết, con người là sống.
+- Cũng giống như việc mình quan tâm đến nhiều biến, nhiều khía cạnh hơn để đạt tính phù hợp cao hơn.
 
 
